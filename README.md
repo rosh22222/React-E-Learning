@@ -1,22 +1,65 @@
-This project is a Kanban Board made with React and Tailwind CSS.
-It helps to organize work into three stages:
+React E-learning Platform
 
-To Do – Tasks that need to be started (You can add tasks here).
+A modern and responsive E-learning platform built with React.js. This application allows users to enroll in courses, Register and track progress,   — all in a dynamic and intuitive interface.
 
-In Progress – Tasks that are currently being worked on.
+Features
 
-Done – Finished tasks.
+📖 Course listing and filtering
 
-You can:
+✅ Quiz system with instant feedback
 
-Add, edit, and delete tasks.
+📊 User dashboard with progress analytics
 
-Drag and drop tasks between columns.
+🔒 User authentication (login/signup)
 
-Mark tasks with Low, Medium, or High priority.
+📱 Fully responsive design (mobile-friendly)
 
-Search tasks by name and filter them by priority.
+Tech Stack
+Frontend	Description
+React.js	Frontend framework
+React Router	Client-side routing
+Redux / Context API	State management
+ Fetch	HTTP client
+Tailwind CSS / CSS Modules	Styling
 
-See a colorful, modern, and responsive UI with hover effects.
+Getting Started
+1. Clone the Repository
+git clone https://github.com/yourusername/react-elearning.git
+cd react-elearning
 
-The main goal of this project is to make task management easy and visual.
+2. Install Dependencies
+npm install
+
+3. Run the Development Server
+npm start
+
+
+App will run at: http://localhost:3000
+Folder Structure
+src/
+├── assets/           
+├── components/       
+├── pages/            
+├── services/       
+├── context/         
+├── hooks/           
+├── App.js            
+└── index.js 
+
+Deployment
+
+deploy the app to:
+
+Netlify
+
+GitHub Pages
+
+Author
+
+Made with ❤️ by [Roshini]
+
+GitHub:  https://github.com/rosh22222
+
+LinkedIn: [yourlinkedin](https://www.linkedin.com/in/roshni-m-349397229)
+
+
