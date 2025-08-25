@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Roshini",
+      "email": "user@example.com",
+      "password": "secret123", 
+      "role": "student",
+      "avatar": ""
+    }
+  ],
+  "courses": [],
+  "enrollments": []
+}
