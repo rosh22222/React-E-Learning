@@ -24,7 +24,6 @@ Tailwind CSS / CSS Modules	Styling
 
 Getting Started
 1. Clone the Repository
-git clone https://github.com/yourusername/react-elearning.git
 cd react-elearning
 
 2. Install Dependencies
